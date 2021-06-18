@@ -1,5 +1,5 @@
-# CommonModelFilterSwagger\
-Applying custom filter to common model using swagger.\
+# CommonModelFilterSwagger
+Applying custom filter to common model using swagger.
 
 What I use in the project:\
 ASP.NET Core Web API .NET 5.0\
