@@ -13,5 +13,7 @@ If you don't want to ignore property in some controller you should add [SwaggerI
 For now, I'm checking manually because the property I want is fixed. You can customize it if you want.\
 "if (actionName.StartsWith("Create"))" in SwaggerSkipPropertyFilter.cs.
 
+![alt text](https://i.ibb.co/PNjx0fL/Filter.png)
+
 The source I used in making the schema filter(Thanks for this):\
 https://github.com/domaindrivendev/Swashbuckle.WebApi/issues/1230
